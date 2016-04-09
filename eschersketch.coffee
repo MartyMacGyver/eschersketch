@@ -35,7 +35,7 @@ sign = (x) -> (if x < 0 then -1 else 1)
 # Global State Variables
 
 CANVAS_WIDTH = 1600
-CANVAS_HEIGHT = 1200
+CANVAS_HEIGHT = 1600
 DRAW_interval = 0
 MIN_linewidth = .01
 MAX_linewidth = 4
@@ -65,7 +65,7 @@ uiState =
   gridNy: 31
   gridX0: 800
   gridY0: 400
-  gridspacing: 100
+  gridspacing: 200
   gridrotation: 0
   symmetry: "p6m"
 
